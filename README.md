@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm **Mustafa** from India
 #### Pursuing Software engineer, Web Developer & community ninja
-I'm a software engineering student who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies  I enjoy working with include Python, java, Reactjs, CSS. I recently have developed my interest in embedding 3D objects into websites.
+I'm a software engineering student who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies  I enjoy working which include Python, java, Reactjs, CSS. I recently have developed my interest in embedding 3D objects into websites.
 
 Skills: Python/ Java / REACT / JS / HTML / CSS
 
