@@ -26,8 +26,6 @@
 <b>⚡ Github Stats</b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msquare-2&show_icons=true&locale=en&layout=compact" alt="msquare-2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msquare-2&show_icons=true&locale=en" alt="msquare-2" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msquare-2&" alt="msquare-2" /></p>
 
 <b>&#128200; Problem Solving</b>
