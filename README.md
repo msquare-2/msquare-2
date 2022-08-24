@@ -34,10 +34,10 @@
 #### Connect With Me
 
 <p left="center">
-<a href="https://twitter.com/sudiptob2">
+<a href="https://twitter.com/msquare-2">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
-<a href="https://www.linkedin.com/in/sudiptob2/">
+<a href="https://www.linkedin.com/in/msquare-2/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a>
 <a href="mailto:m4mustafa110@gmail.com">
